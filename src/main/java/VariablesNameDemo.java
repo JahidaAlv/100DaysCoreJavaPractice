@@ -10,5 +10,8 @@ public class VariablesNameDemo {
         System.out.println("Age: " + age);
         System.out.println("Student Count: " + studentCount);
         System.out.println("Max Speed: " + MAX_SPEED);
+
+
+
     }
 }
