@@ -1,7 +1,5 @@
 package one;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Operators {
     public static void main(String[] args) {
 
