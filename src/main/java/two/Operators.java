@@ -1,6 +1,6 @@
-package one;
+package two;
 
-import org.w3c.dom.ls.LSOutput;
+
 
 public class Operators {
     public static void main(String[] args) {

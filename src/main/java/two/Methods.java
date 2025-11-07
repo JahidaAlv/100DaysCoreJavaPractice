@@ -1,6 +1,4 @@
-package one;
-
-import org.w3c.dom.ls.LSOutput;
+package two;
 
 //Reusable block of code
 //A method is like a function in other programming languages.

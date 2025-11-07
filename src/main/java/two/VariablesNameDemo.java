@@ -1,4 +1,4 @@
-
+package two;
 // java is case-sensitive (age =! Age)
 
 public class VariablesNameDemo {
