@@ -1,7 +1,10 @@
 package two;
 
 
+<<<<<<< HEAD:src/main/java/two/Operators.java
 
+=======
+>>>>>>> 852bfc64e287ef3632c74838d271352e33ec2d47:src/main/java/one/Operators.java
 public class Operators {
     public static void main(String[] args) {
 
