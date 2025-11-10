@@ -1,5 +1,6 @@
 package three.classdemo;
 
+//Blueprint of instance
 public class Car {
     String brand;
     String color;
