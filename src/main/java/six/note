@@ -1,0 +1,29 @@
+1. Functional Interface?
+
+A Functional Interface in Java is an interface that contains exactly one abstract method.
+It is mainly used to enable lambda expressions and method references (introduced in Java 8).
+
+2. @FunctionalInterface Annotation?
+@FunctionalInterface Annotation
+It is optional, but recommended.
+It ensures compile-time checking that the interface has only one abstract method.
+
+3. Why Functional Interfaces Are Important?
+Supports lambda expressions
+Makes code shorter, cleaner, and readable
+Widely used in Streams API, Collections, and Multithreading
+
+4. Lambda Expression?
+A lambda expression is a short block of code that used to implement a functional interface in a concise way.
+Syntax:
+(parameters) -> { body }
+
+5. Why Lambda Expressions Are Used?
+Reduce boilerplate code
+Improve readability
+Support functional programming
+Widely used in Streams API
+Useful in multithreading
+
+
+

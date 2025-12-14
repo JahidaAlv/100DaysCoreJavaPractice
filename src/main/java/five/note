@@ -1,0 +1,8 @@
+
+try → risky code
+catch → handle exception
+finally → always runs
+throw → manually throw exception
+throws → declare exception
+
+A custom exception is a user-defined exception created to handle application-specific errors.
