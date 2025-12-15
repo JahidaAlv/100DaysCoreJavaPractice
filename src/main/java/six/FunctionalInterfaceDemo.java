@@ -11,6 +11,7 @@ interface Operation{
     int add(int a, int b);
 }
 
+
 public class FunctionalInterfaceDemo {
     public static void main(String[] args) {
 
@@ -36,5 +37,10 @@ public class FunctionalInterfaceDemo {
         };
 
         System.out.println(operation.add(10,20));
+
+        // Thread interface
+        new Thread(() ->
+                System.out.println("New Thread Created"))
+                .start();
     }
 }
