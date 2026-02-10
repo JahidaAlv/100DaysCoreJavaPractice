@@ -1,0 +1,25 @@
+package Questions;
+
+//1
+//public class ReverseString {
+//    public static void main(String[] args) {
+//        String str = "java";
+//        String rev = "";
+//
+//        for (int i = str.length()-1; i >=0; i--){
+//            rev = rev + str.charAt(i);
+//        }
+//        System.out.println("Reversed String: " + rev);
+//    }
+//}
+
+//2
+public class ReverseString {
+    public static void main(String[] args) {
+        String str = "hello";
+
+        StringBuffer sb  = new StringBuffer(str);
+        sb.reverse();
+        System.out.println(sb);
+    }
+}
