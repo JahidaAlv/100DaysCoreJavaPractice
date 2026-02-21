@@ -1,21 +1,21 @@
 package Questions;
 
 // 1
-public class ArrayDemo {
-    public static void main(String[] args) {
-
-        // Create array of size 5
-        int[] arr = new int[5];
-
-        // Store values in array
-        arr[0] = 100;
-        arr[1] = 100;
-        arr[2] = 100;
-
-        // Print size of array
-        System.out.println(arr.length);
-    }
-}
+//public class ArrayDemo {
+//    public static void main(String[] args) {
+//
+//        // Create array of size 5
+//        int[] arr = new int[5];
+//
+//        // Store values in array
+//        arr[0] = 100;
+//        arr[1] = 100;
+//        arr[2] = 100;
+//
+//        // Print size of array
+//        System.out.println(arr.length);
+//    }
+//}
 
 //Interview-ready explanation
 //An array named arr is created with size 3.
@@ -53,21 +53,21 @@ public class ArrayDemo {
 
 
 // 3
-//public class ArrayDemo {
-//    public static void main(String[] args) {
-//
-//        // create boolean array of size 3
-//        boolean[] arr = new boolean[3];
-//
-//        // assign true to index 2
-//        arr[2] = true;
-//
-//        // print all elements using for loop
-//        for(int i = 0; i < arr.length; i++){
-//            System.out.println(arr[i]);
-//        }
-//    }
-//}
+public class ArrayDemo {
+    public static void main(String[] args) {
+
+        // create boolean array of size 3
+        boolean[] arr = new boolean[3];
+
+        // assign true to index 2
+        arr[2] = true;
+
+        // print all elements using for loop
+        for(int i = 0; i < arr.length; i++){
+            System.out.println(arr[i]);
+        }
+    }
+}
 
 //Interview-ready explanation
 //A boolean array of size 3 is created.
