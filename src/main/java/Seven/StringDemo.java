@@ -2,18 +2,18 @@ package Seven;
 
 
 // 1
-//public class StringDemo {
-//    public static void main(String[] args) {
-//        String s1 = "Hii";
-//        String s2 = "Hii";
-//
-//        if (s1 == s2){
-//            System.out.println("Both are same");
-//        }else {
-//            System.out.println("Both are not same");
-//        }
-//    }
-//}
+public class StringDemo {
+    public static void main(String[] args) {
+        String s1 = "Hii";
+        String s2 = "Hii";
+
+        if (s1 == s2){
+            System.out.println("Both are same");
+        }else {
+            System.out.println("Both are not same");
+        }
+    }
+}
 
 //  == checks memory reference (address), not the actual content.
 // Since both s1 and s2 point to the same object in the String Pool
@@ -49,13 +49,14 @@ package Seven;
 //    }
 //}
 
+
 // 4 - count number of words in String
-public class StringDemo {
-    public static void main(String[] args) {
-        String s = "Hey Java programming";
-
-
-
-
-    }
-}
+//public class StringDemo {
+//    public static void main(String[] args) {
+//        String s = "Hey Java programming";
+//
+//
+//
+//
+//    }
+//}
