@@ -10,8 +10,6 @@ public class Q8 {
         list.stream()
                 .map(i -> i * 2)
                 .forEach(System.out::print);
-
-
     }
 }
 
